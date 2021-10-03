@@ -13,11 +13,11 @@ client.on("ready", () => {
   );
   let statuses = [
    
-    `نوسینەکان لێرە دانێ`,
-    `MrTiGER`,
-    `100k Member soon`,
-    `MrTiger `,
-    `Ilove ❤ `,
+    `KrG UP`,
+    `Snap / akamhewa 👻`,
+    `HACKER BY CHIVAS`,
+    `باوکی هەژاران`,
+    `IRAQ UP 🇮🇶`,
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -28,4 +28,4 @@ client.on("ready", () => {
   }, 2000);
 });
 
-client.login("تۆکین لێرە دانێ");
+client.login("mfa.1syfeq3jdngH4Xgn9XKdHsWNH96bYqja4VAJytiT-pXqBGG6TtlKFyaFXPTeSc3gR94m4Ws1_Vdjw9l-fuMf");
