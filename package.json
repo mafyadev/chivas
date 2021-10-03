@@ -1,10 +1,10 @@
 {
-  "name": "chivas",
+  "name": "MrTiger",
   "version": "2.1.0",
-  "description": "-- chivas --",
-  "main": "chivas.js",
+  "description": "-- MrTiger --",
+  "main": "MrTiger.js",
   "scripts": {
-    "start": "node chivas.js"
+    "start": "node MrTiger.js"
   },
   "dependencies": {
     "canvas": "^1.6.10",
