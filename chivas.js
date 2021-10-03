@@ -13,7 +13,7 @@ client.on("ready", () => {
   );
   let statuses = [
    
-    `Joker Staff`,
+    `نوسینەکان لێرە دانێ`,
     `MrTiGER`,
     `100k Member soon`,
     `MrTiger `,
@@ -28,4 +28,4 @@ client.on("ready", () => {
   }, 2000);
 });
 
-client.login("");
+client.login("تۆکین لێرە دانێ");
